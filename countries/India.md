@@ -12,6 +12,6 @@ Hindi, English
 
 
 ## interesting trivia
-India is peninsular country.
+India is the 7th largest country and also a peninsular country.
 
 
